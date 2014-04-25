@@ -1,0 +1,11 @@
+c:\users\natalija\documents\visual studio 2013\Projects\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programsko inženjerstvo.csprojResolveAssemblyReference.cache
+c:\users\natalija\documents\visual studio 2013\Projects\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programski_inženjerstvo.Form1.resources
+c:\users\natalija\documents\visual studio 2013\Projects\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programski_inženjerstvo.PrijavaUSustav.resources
+c:\users\natalija\documents\visual studio 2013\Projects\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programski_inženjerstvo.Properties.Resources.resources
+c:\users\natalija\documents\visual studio 2013\Projects\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programsko inženjerstvo.csproj.GenerateResource.Cache
+c:\users\natalija\documents\visual studio 2013\Projects\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programski inženjerstvo.exe
+c:\users\natalija\documents\visual studio 2013\Projects\Programski inženjerstvo\Programski inženjerstvo\bin\Debug\Programski inženjerstvo.exe.config
+c:\users\natalija\documents\visual studio 2013\Projects\Programski inženjerstvo\Programski inženjerstvo\bin\Debug\Programski inženjerstvo.exe
+c:\users\natalija\documents\visual studio 2013\Projects\Programski inženjerstvo\Programski inženjerstvo\bin\Debug\Programski inženjerstvo.pdb
+c:\users\natalija\documents\visual studio 2013\Projects\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programski inženjerstvo.pdb
+c:\users\natalija\documents\visual studio 2013\Projects\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programski_inženjerstvo.Narudzbenica.resources
