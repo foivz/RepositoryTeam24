@@ -9,3 +9,14 @@ c:\users\natalija\documents\visual studio 2013\Projects\Programski inženjerstvo
 c:\users\natalija\documents\visual studio 2013\Projects\Programski inženjerstvo\Programski inženjerstvo\bin\Debug\Programski inženjerstvo.pdb
 c:\users\natalija\documents\visual studio 2013\Projects\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programski inženjerstvo.pdb
 c:\users\natalija\documents\visual studio 2013\Projects\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programski_inženjerstvo.Narudzbenica.resources
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\WindowsFormsApplication1\Programski inženjerstvo\Programski inženjerstvo\bin\Debug\Programski inženjerstvo.exe.config
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\WindowsFormsApplication1\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programski inženjerstvo.exe
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\WindowsFormsApplication1\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programski inženjerstvo.pdb
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\WindowsFormsApplication1\Programski inženjerstvo\Programski inženjerstvo\bin\Debug\Programski inženjerstvo.exe
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\WindowsFormsApplication1\Programski inženjerstvo\Programski inženjerstvo\bin\Debug\Programski inženjerstvo.pdb
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\WindowsFormsApplication1\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programsko inženjerstvo.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\WindowsFormsApplication1\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programski_inženjerstvo.Form1.resources
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\WindowsFormsApplication1\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programski_inženjerstvo.Narudzbenica.resources
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\WindowsFormsApplication1\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programski_inženjerstvo.PrijavaUSustav.resources
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\WindowsFormsApplication1\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programski_inženjerstvo.Properties.Resources.resources
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\WindowsFormsApplication1\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programsko inženjerstvo.csproj.GenerateResource.Cache
