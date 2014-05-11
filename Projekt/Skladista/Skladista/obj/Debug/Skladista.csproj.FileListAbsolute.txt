@@ -1,0 +1,13 @@
+C:\Users\Natalija\Desktop\Skladista\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Natalija\Desktop\Skladista\Skladista\bin\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\Skladista\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.Korisnici.resources
