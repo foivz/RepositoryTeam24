@@ -50,6 +50,7 @@
     <Compile Include="Artikli.Designer.cs">
       <DependentUpon>Artikli.cs</DependentUpon>
     </Compile>
+    <Compile Include="DB.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
