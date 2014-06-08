@@ -37,3 +37,15 @@ C:\Users\user\Desktop\Programski inženjerstvo\Programski inženjerstvo\obj\Debu
 C:\Users\user\Desktop\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programsko inženjerstvo.csproj.GenerateResource.Cache
 C:\Users\user\Desktop\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programski_inženjerstvo.Izdatnica.resources
 C:\Users\user\Desktop\Programski inženjerstvo\Programski inženjerstvo\obj\Debug\Programski_inženjerstvo.Skladisnica.resources
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Programsko inženjerstvo\bin\Debug\Programski inženjerstvo.exe.config
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Programsko inženjerstvo\obj\Debug\Programski inženjerstvo.exe
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Programsko inženjerstvo\obj\Debug\Programski inženjerstvo.pdb
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Programsko inženjerstvo\obj\Debug\Programsko inženjerstvo.csprojResolveAssemblyReference.cache
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Programsko inženjerstvo\obj\Debug\Programski_inženjerstvo.Form1.resources
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Programsko inženjerstvo\obj\Debug\Programski_inženjerstvo.Izdatnica.resources
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Programsko inženjerstvo\obj\Debug\Programski_inženjerstvo.Kreiranje_narudzbenice.resources
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Programsko inženjerstvo\obj\Debug\Programski_inženjerstvo.Narudzbenica.resources
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Programsko inženjerstvo\obj\Debug\Programski_inženjerstvo.Otpremnica.resources
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Programsko inženjerstvo\obj\Debug\Programski_inženjerstvo.PrijavaUSustav.resources
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Programsko inženjerstvo\obj\Debug\Programski_inženjerstvo.Skladisnica.resources
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Programsko inženjerstvo\obj\Debug\Programsko inženjerstvo.csproj.GenerateResource.Cache

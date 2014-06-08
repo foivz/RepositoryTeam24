@@ -28,98 +28,98 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Prijava));
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.txtKorisnickoIme = new System.Windows.Forms.TextBox();
+            this.txtLozinka = new System.Windows.Forms.TextBox();
+            this.lblKorisnickoIme = new System.Windows.Forms.Label();
+            this.lblLozinka = new System.Windows.Forms.Label();
+            this.btnLogin = new System.Windows.Forms.Button();
+            this.btnZatvori = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // textBox1
+            // txtKorisnickoIme
             // 
-            this.textBox1.Location = new System.Drawing.Point(216, 100);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 22);
-            this.textBox1.TabIndex = 0;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.txtKorisnickoIme.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.txtKorisnickoIme.Location = new System.Drawing.Point(162, 40);
+            this.txtKorisnickoIme.Margin = new System.Windows.Forms.Padding(2);
+            this.txtKorisnickoIme.Multiline = true;
+            this.txtKorisnickoIme.Name = "txtKorisnickoIme";
+            this.txtKorisnickoIme.Size = new System.Drawing.Size(218, 41);
+            this.txtKorisnickoIme.TabIndex = 0;
+            this.txtKorisnickoIme.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
-            // textBox2
+            // txtLozinka
             // 
-            this.textBox2.Location = new System.Drawing.Point(216, 152);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 22);
-            this.textBox2.TabIndex = 1;
+            this.txtLozinka.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.txtLozinka.Location = new System.Drawing.Point(162, 99);
+            this.txtLozinka.Margin = new System.Windows.Forms.Padding(2);
+            this.txtLozinka.Multiline = true;
+            this.txtLozinka.Name = "txtLozinka";
+            this.txtLozinka.PasswordChar = '*';
+            this.txtLozinka.Size = new System.Drawing.Size(218, 41);
+            this.txtLozinka.TabIndex = 1;
             // 
-            // label1
+            // lblKorisnickoIme
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(74, 104);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(103, 17);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "Korisničko ime:";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            this.lblKorisnickoIme.AutoSize = true;
+            this.lblKorisnickoIme.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.lblKorisnickoIme.Location = new System.Drawing.Point(20, 40);
+            this.lblKorisnickoIme.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblKorisnickoIme.Name = "lblKorisnickoIme";
+            this.lblKorisnickoIme.Size = new System.Drawing.Size(129, 20);
+            this.lblKorisnickoIme.TabIndex = 2;
+            this.lblKorisnickoIme.Text = "Korisničko ime:";
+            this.lblKorisnickoIme.Click += new System.EventHandler(this.label1_Click);
             // 
-            // label2
+            // lblLozinka
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(77, 156);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(61, 17);
-            this.label2.TabIndex = 3;
-            this.label2.Text = "Lozinka:";
+            this.lblLozinka.AutoSize = true;
+            this.lblLozinka.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.lblLozinka.Location = new System.Drawing.Point(20, 99);
+            this.lblLozinka.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblLozinka.Name = "lblLozinka";
+            this.lblLozinka.Size = new System.Drawing.Size(76, 20);
+            this.lblLozinka.TabIndex = 3;
+            this.lblLozinka.Text = "Lozinka:";
             // 
-            // pictureBox1
+            // btnLogin
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(322, 119);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(161, 207);
-            this.pictureBox1.TabIndex = 4;
-            this.pictureBox1.TabStop = false;
+            this.btnLogin.Cursor = System.Windows.Forms.Cursors.AppStarting;
+            this.btnLogin.Location = new System.Drawing.Point(162, 181);
+            this.btnLogin.Margin = new System.Windows.Forms.Padding(2);
+            this.btnLogin.Name = "btnLogin";
+            this.btnLogin.Size = new System.Drawing.Size(100, 65);
+            this.btnLogin.TabIndex = 5;
+            this.btnLogin.Text = "Prijavi se";
+            this.btnLogin.UseVisualStyleBackColor = true;
+            this.btnLogin.Click += new System.EventHandler(this.button1_Click);
             // 
-            // button1
+            // btnZatvori
             // 
-            this.button1.Cursor = System.Windows.Forms.Cursors.AppStarting;
-            this.button1.Location = new System.Drawing.Point(77, 214);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 5;
-            this.button1.Text = "Prijavi se";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(216, 214);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 6;
-            this.button2.Text = "Prekid";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.btnZatvori.Location = new System.Drawing.Point(280, 181);
+            this.btnZatvori.Margin = new System.Windows.Forms.Padding(2);
+            this.btnZatvori.Name = "btnZatvori";
+            this.btnZatvori.Size = new System.Drawing.Size(100, 65);
+            this.btnZatvori.TabIndex = 6;
+            this.btnZatvori.Text = "Zatvori";
+            this.btnZatvori.UseVisualStyleBackColor = true;
+            this.btnZatvori.Click += new System.EventHandler(this.button2_Click);
             // 
             // Prijava
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.ClientSize = new System.Drawing.Size(495, 355);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.BackColor = System.Drawing.SystemColors.Window;
+            this.ClientSize = new System.Drawing.Size(472, 287);
+            this.Controls.Add(this.btnZatvori);
+            this.Controls.Add(this.btnLogin);
+            this.Controls.Add(this.lblLozinka);
+            this.Controls.Add(this.lblKorisnickoIme);
+            this.Controls.Add(this.txtLozinka);
+            this.Controls.Add(this.txtKorisnickoIme);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Prijava";
             this.Text = "Prijava";
             this.Load += new System.EventHandler(this.Prijava_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -127,12 +127,11 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.TextBox txtKorisnickoIme;
+        private System.Windows.Forms.TextBox txtLozinka;
+        private System.Windows.Forms.Label lblKorisnickoIme;
+        private System.Windows.Forms.Label lblLozinka;
+        private System.Windows.Forms.Button btnLogin;
+        private System.Windows.Forms.Button btnZatvori;
     }
 }
