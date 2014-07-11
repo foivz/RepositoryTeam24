@@ -1,0 +1,545 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8A923CC6-F360-4EAC-968E-2D36E772EDD3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Skladista</RootNamespace>
+    <AssemblyName>Skladišta</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Skladišta aplikacija</ProductName>
+    <PublisherName>DotNet</PublisherName>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>false</DebugSymbols>
+    <DebugType>none</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Skladista.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>05A0A7BDF24E8B39E004B84BB4C6332B9A41EF69</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Skladista_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="GoogleChartSharp">
+      <HintPath>..\GoogleChartSharp-1.0.2\GoogleChartSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABCKlasifikacija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABCKlasifikacija.Designer.cs">
+      <DependentUpon>ABCKlasifikacija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Artikl.cs">
+      <DependentUpon>SkladisteModel.tt</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Artikli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Artikli.Designer.cs">
+      <DependentUpon>Artikli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="azurirajIzdatnicu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="azurirajIzdatnicu.Designer.cs">
+      <DependentUpon>azurirajIzdatnicu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="azurirajNarudzbenicu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="azurirajNarudzbenicu.Designer.cs">
+      <DependentUpon>azurirajNarudzbenicu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="azurirajOtpremnicu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="azurirajOtpremnicu.Designer.cs">
+      <DependentUpon>azurirajOtpremnicu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="azurirajSkladisnicu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="azurirajSkladisnicu.Designer.cs">
+      <DependentUpon>azurirajSkladisnicu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dodajStavku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dodajStavku.Designer.cs">
+      <DependentUpon>dodajStavku.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodajStavku_eksterni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodajStavku_eksterni.Designer.cs">
+      <DependentUpon>DodajStavku_eksterni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eksterniDokument.cs">
+      <DependentUpon>SkladisteModel.tt</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Glavna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Glavna.Designer.cs">
+      <DependentUpon>Glavna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GrafičkiPrikaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GrafičkiPrikaz.Designer.cs">
+      <DependentUpon>GrafičkiPrikaz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="interniDokument.cs">
+      <DependentUpon>SkladisteModel.tt</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Izdatnica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Izdatnica.Designer.cs">
+      <DependentUpon>Izdatnica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IzvjestajEksterniPrikaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IzvjestajEksterniPrikaz.Designer.cs">
+      <DependentUpon>IzvjestajEksterniPrikaz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IzvjestajInterniPrikaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IzvjestajInterniPrikaz.Designer.cs">
+      <DependentUpon>IzvjestajInterniPrikaz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KontrolaSkladiste.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KontrolaSkladiste.Designer.cs">
+      <DependentUpon>KontrolaSkladiste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Korisnici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Korisnici.Designer.cs">
+      <DependentUpon>Korisnici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kreiranje.cs" />
+    <Compile Include="Narudžbenica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Narudžbenica.Designer.cs">
+      <DependentUpon>Narudžbenica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Otpremnica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otpremnica.Designer.cs">
+      <DependentUpon>Otpremnica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PISkladiste2DataSet.cs">
+      <DependentUpon>PISkladiste2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PISkladiste2DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PISkladiste2DataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Pododjel.cs">
+      <DependentUpon>SkladisteModel.tt</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="poslovniPartner.cs">
+      <DependentUpon>SkladisteModel.tt</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Prijava.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prijava.Designer.cs">
+      <DependentUpon>Prijava.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Skladiste.cs">
+      <DependentUpon>SkladisteModel.tt</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="SkladisteModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SkladisteModel.Context.tt</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="SkladisteModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SkladisteModel.tt</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="SkladisteModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SkladisteModel.edmx</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Skladišnica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Skladišnica.Designer.cs">
+      <DependentUpon>Skladišnica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stavke_eksternogDokumenta.cs">
+      <DependentUpon>SkladisteModel.tt</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="stavke_internogDokumenta.cs">
+      <DependentUpon>SkladisteModel.tt</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Uloga.cs">
+      <DependentUpon>SkladisteModel.tt</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="UpravljanjeArtiklima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpravljanjeArtiklima.Designer.cs">
+      <DependentUpon>UpravljanjeArtiklima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpravljanjeKorisnicima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpravljanjeKorisnicima.Designer.cs">
+      <DependentUpon>UpravljanjeKorisnicima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upravljanje_izdatnicom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upravljanje_izdatnicom.Designer.cs">
+      <DependentUpon>Upravljanje_izdatnicom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upravljanje_narudzbenicom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upravljanje_narudzbenicom.Designer.cs">
+      <DependentUpon>Upravljanje_narudzbenicom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upravljanje_otpremnicom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upravljanje_otpremnicom.Designer.cs">
+      <DependentUpon>Upravljanje_otpremnicom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upravljanje_skladišnicom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upravljanje_skladišnicom.Designer.cs">
+      <DependentUpon>Upravljanje_skladišnicom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vrsta_eksternog_dokumenta.cs">
+      <DependentUpon>SkladisteModel.tt</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="vrsta_internog_dokumenta.cs">
+      <DependentUpon>SkladisteModel.tt</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Zaposlenik.cs">
+      <DependentUpon>SkladisteModel.tt</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <EmbeddedResource Include="ABCKlasifikacija.resx">
+      <DependentUpon>ABCKlasifikacija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Artikli.resx">
+      <DependentUpon>Artikli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="azurirajIzdatnicu.resx">
+      <DependentUpon>azurirajIzdatnicu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="azurirajNarudzbenicu.resx">
+      <DependentUpon>azurirajNarudzbenicu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="azurirajOtpremnicu.resx">
+      <DependentUpon>azurirajOtpremnicu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="azurirajSkladisnicu.resx">
+      <DependentUpon>azurirajSkladisnicu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dodajStavku.resx">
+      <DependentUpon>dodajStavku.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodajStavku_eksterni.resx">
+      <DependentUpon>DodajStavku_eksterni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EksterniIzvjestaj.rdlc" />
+    <EmbeddedResource Include="Glavna.resx">
+      <DependentUpon>Glavna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GrafičkiPrikaz.resx">
+      <DependentUpon>GrafičkiPrikaz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="interniIzvjestaj.rdlc" />
+    <EmbeddedResource Include="Izdatnica.resx">
+      <DependentUpon>Izdatnica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IzvjestajEksterniPrikaz.resx">
+      <DependentUpon>IzvjestajEksterniPrikaz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IzvjestajInterniPrikaz.resx">
+      <DependentUpon>IzvjestajInterniPrikaz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KontrolaSkladiste.resx">
+      <DependentUpon>KontrolaSkladiste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Korisnici.resx">
+      <DependentUpon>Korisnici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Narudžbenica.resx">
+      <DependentUpon>Narudžbenica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Otpremnica.resx">
+      <DependentUpon>Otpremnica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prijava.resx">
+      <DependentUpon>Prijava.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Skladišnica.resx">
+      <DependentUpon>Skladišnica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpravljanjeArtiklima.resx">
+      <DependentUpon>UpravljanjeArtiklima.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpravljanjeKorisnicima.resx">
+      <DependentUpon>UpravljanjeKorisnicima.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upravljanje_izdatnicom.resx">
+      <DependentUpon>Upravljanje_izdatnicom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upravljanje_narudzbenicom.resx">
+      <DependentUpon>Upravljanje_narudzbenicom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upravljanje_otpremnicom.resx">
+      <DependentUpon>Upravljanje_otpremnicom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upravljanje_skladišnicom.resx">
+      <DependentUpon>Upravljanje_skladišnicom.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="PISkladiste2DataSet.xsc">
+      <DependentUpon>PISkladiste2DataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="PISkladiste2DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PISkladiste2DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="PISkladiste2DataSet.xss">
+      <DependentUpon>PISkladiste2DataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\DataSources\Artikl.datasource" />
+    <None Include="Properties\DataSources\eksterniDokument.datasource" />
+    <None Include="Properties\DataSources\interniDokument.datasource" />
+    <None Include="Properties\DataSources\Korisnici.datasource" />
+    <None Include="Properties\DataSources\Pododjel.datasource" />
+    <None Include="Properties\DataSources\poslovniPartner.datasource" />
+    <None Include="Properties\DataSources\povijestCijena.datasource" />
+    <None Include="Properties\DataSources\Skladista.PISkladiste2DataSetTableAdapters.ArtiklTableAdapter.datasource" />
+    <None Include="Properties\DataSources\stavke_eksternogDokumenta.datasource" />
+    <None Include="Properties\DataSources\stavke_eksternogDokumenta1.datasource" />
+    <None Include="Properties\DataSources\stavke_internogDokumenta.datasource" />
+    <None Include="Properties\DataSources\Uloga.datasource" />
+    <None Include="Properties\DataSources\vrsta_eksternog_dokumenta.datasource" />
+    <None Include="Properties\DataSources\vrsta_internog_dokumenta.datasource" />
+    <None Include="Properties\DataSources\Zaposlenik.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EntityDeploy Include="SkladisteModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>SkladisteModel.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EntityDeploy>
+    <None Include="Skladista_TemporaryKey.pfx" />
+    <None Include="SkladisteModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>SkladisteModel.edmx</DependentUpon>
+      <LastGenOutput>SkladisteModel.Context.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="SkladisteModel.edmx.diagram">
+      <DependentUpon>SkladisteModel.edmx</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="SkladisteModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>SkladisteModel.edmx</DependentUpon>
+      <LastGenOutput>SkladisteModel.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ssssssss.jpg" />
+    <None Include="Resources\oie_transparent %282%291.png" />
+    <None Include="Resources\oie_transparent %282%29.png" />
+    <None Include="Resources\slik1.bmp" />
+    <None Include="Resources\slik.bmp" />
+    <None Include="Resources\Home.png" />
+    <None Include="Resources\Up.png" />
+    <None Include="Resources\login.jpg" />
+    <None Include="Resources\Add1.png" />
+    <None Include="Resources\neimenovano.png" />
+    <None Include="Resources\Close1.png" />
+    <None Include="Resources\Floppy1.png" />
+    <None Include="Resources\Delete.png" />
+    <None Include="Resources\Add.png" />
+    <None Include="Resources\Close.png" />
+    <None Include="Resources\Floppy.png" />
+    <None Include="Resources\slik2.jpg" />
+    <None Include="Resources\Clock.png" />
+    <None Include="Resources\slik.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+    <Content Include="PISkladiste2.mdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PISkladiste2_log.ldf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DependentUpon>PISkladiste2.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\oie_transparent%281%29.png" />
+    <None Include="Resources\izvještaj.png" />
+    <None Include="Resources\oie_transparent %283%29.png" />
+    <None Include="Resources\oie_transparent %282%293.png" />
+    <None Include="Resources\oie_transparent %282%29.jpg" />
+    <None Include="Resources\oie_transparent %282%292.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

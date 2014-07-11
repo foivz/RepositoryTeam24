@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="O aplikaciji...">
+		<param name="Local" value="O aplikaciji.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Prijava">
+		<param name="Local" value="Prijava.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Upravljanje dokumentima">
+		<param name="Local" value="Upravljanje dokumentima.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Kreiranje novog dokumenta">
+		<param name="Local" value="Kreiranje dokumenta.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ažuriranje dokumenata">
+		<param name="Local" value="Ažuriranje dokumenata.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Dodavanje korisnika">
+		<param name="Local" value="Dodavanje korisnika.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Uvid u stanje na skladištu">
+		<param name="Local" value="Uvid u stanje na skladištu.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Upravljanje artiklima">
+		<param name="Local" value="Upravljanje artiklima.htm">
+		</OBJECT>
+</UL>
+</BODY></HTML>
