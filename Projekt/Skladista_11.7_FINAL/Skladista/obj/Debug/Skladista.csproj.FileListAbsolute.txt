@@ -1,0 +1,1222 @@
+C:\Users\Natalija\Desktop\Skladista\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Natalija\Desktop\Skladista\Skladista\bin\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\Skladista\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Natalija\Desktop\Skladista\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.exe
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\bin\Debug\Skladista.exe
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Nikola\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.exe
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\bin\Debug\Skladista.exe
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Nikola-m\Documents\GitHub\RepositoryTeam24\Projekt\Skladista\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Natalija\Desktop\pi\Skladista\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Natalija\Desktop\pi\Skladista\Skladista\obj\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\pi\Skladista\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\pi\Skladista\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Natalija\Desktop\pi\Skladista\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Natalija\Desktop\pi\Skladista\Skladista\bin\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\pi\Skladista\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\pi\Skladista\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Natalija\Desktop\pi\Skladista\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Natalija\Desktop\pi\Skladista\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Natalija\Desktop\pi\Skladista\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Natalija\Desktop\pi\Skladista\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Natalija\Desktop\pi\Skladista\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Natalija\Desktop\pi\Skladista\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Natalija\Desktop\pi\Skladista\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Natalija\Desktop\pi\Skladista\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Natalija\Desktop\pi\Skladista\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Nikola-m\Desktop\PI_PROJEKT\Outlook.com\Skladista1\Skladista\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Nikola-m\Desktop\PI_PROJEKT\Outlook.com\Skladista1\Skladista\Skladista\obj\Debug\Skladista.exe
+C:\Users\Nikola-m\Desktop\PI_PROJEKT\Outlook.com\Skladista1\Skladista\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Nikola-m\Desktop\PI_PROJEKT\Outlook.com\Skladista1\Skladista\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Nikola-m\Desktop\PI_PROJEKT\Outlook.com\Skladista1\Skladista\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Nikola-m\Desktop\PI_PROJEKT\Outlook.com\Skladista1\Skladista\Skladista\bin\Debug\Skladista.exe
+C:\Users\Nikola-m\Desktop\PI_PROJEKT\Outlook.com\Skladista1\Skladista\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Nikola-m\Desktop\PI_PROJEKT\Outlook.com\Skladista1\Skladista\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Nikola-m\Desktop\PI_PROJEKT\Outlook.com\Skladista1\Skladista\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Nikola-m\Desktop\PI_PROJEKT\Outlook.com\Skladista1\Skladista\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Nikola-m\Desktop\PI_PROJEKT\Outlook.com\Skladista1\Skladista\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Nikola-m\Desktop\PI_PROJEKT\Outlook.com\Skladista1\Skladista\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Nikola-m\Desktop\PI_PROJEKT\Outlook.com\Skladista1\Skladista\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Nikola-m\Desktop\PI_PROJEKT\Outlook.com\Skladista1\Skladista\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Nikola-m\Desktop\PI_PROJEKT\Outlook.com\Skladista1\Skladista\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Nikola-m\Desktop\PI_PROJEKT\Outlook.com\Skladista1\Skladista\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Nikola-m\Desktop\PI_PROJEKT\Outlook.com\Skladista1\Skladista\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\Skladista\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Nikola\Desktop\Skladista\Skladista\bin\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Nikola\Desktop\Skladista\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Nikola\Desktop\Skladista\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Nikola\Desktop\Skladista\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Nikola\Desktop\Skladista\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Nikola\Desktop\Skladista\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Nikola\Desktop\Skladista\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Nikola\Desktop\Skladista\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Skladista\Skladista\obj\Debug\Skladista.Skladisnica.resources
+C:\Users\Nikola\Desktop\Skladista\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\Skladista\Skladista\obj\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista\Skladista\obj\Debug\Skladista.pdb
+C:\Users\user\Desktop\Skladista\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\user\Desktop\Skladista\Skladista\obj\Debug\Skladista.exe
+C:\Users\user\Desktop\Skladista\Skladista\obj\Debug\Skladista.pdb
+C:\Users\user\Desktop\Skladista\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\user\Desktop\Skladista\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\user\Desktop\Skladista\Skladista\bin\Debug\Skladista.exe
+C:\Users\user\Desktop\Skladista\Skladista\bin\Debug\Skladista.pdb
+C:\Users\user\Desktop\Skladista\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Skladista\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Skladista\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Skladista\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\user\Desktop\Skladista\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\user\Desktop\Skladista\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\user\Desktop\Skladista\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\user\Desktop\Skladista\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\user\Desktop\Skladista\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\user\Desktop\Skladista\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Skladista\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\user\Desktop\Skladista\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\user\Desktop\Skladista\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\user\Desktop\Skladista\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\user\Desktop\Skladista\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\user\Desktop\Skladista\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\user\Desktop\Skladista\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\bin\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\Nikola\Desktop\PI\Skladista\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\user\Desktop\Skladista_TO\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.exe
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.pdb
+C:\Users\user\Desktop\Skladista_TO\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\user\Desktop\Skladista_TO\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\user\Desktop\Skladista_TO\Skladista\bin\Debug\Skladista.exe
+C:\Users\user\Desktop\Skladista_TO\Skladista\bin\Debug\Skladista.pdb
+C:\Users\user\Desktop\Skladista_TO\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Skladista_TO\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Skladista_TO\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\bin\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\RdlCompile.cache
+C:\Users\Nikola\Desktop\Skladista_28.6\Skladista_28.6\Skladista\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\Skladista_28.6\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.exe
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.pdb
+C:\Users\user\Desktop\Skladista_28.6\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\user\Desktop\Skladista_28.6\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\user\Desktop\Skladista_28.6\Skladista\bin\Debug\Skladista.exe
+C:\Users\user\Desktop\Skladista_28.6\Skladista\bin\Debug\Skladista.pdb
+C:\Users\user\Desktop\Skladista_28.6\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Skladista_28.6\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Skladista_28.6\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\RdlCompile.cache
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\RdlCompile.compiled
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\Artikl.cs
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\eksterniDokument.cs
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\interniDokument.cs
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\Pododjel.cs
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\poslovniPartner.cs
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\Skladiste.cs
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\SkladisteModel.Context.cs
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\SkladisteModel.cs
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\SkladisteModel.Designer.cs
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\stavke_eksternogDokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\stavke_internogDokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\Uloga.cs
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\vrsta_eksternog_dokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\vrsta_internog_dokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\Zaposlenik.cs
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\SkladisteModel.Context.tt
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\SkladisteModel.edmx.diagram
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\bin\Debug\SkladisteModel.tt
+C:\Users\Nikola\Desktop\Skladista_30.6\Skladista_28.6\Skladista\obj\Debug\Skladista.UpravljanjeArtiklima.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.exe
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.pdb
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\Artikl.cs
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\eksterniDokument.cs
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\interniDokument.cs
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\Pododjel.cs
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\poslovniPartner.cs
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\Skladiste.cs
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\SkladisteModel.Context.cs
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\SkladisteModel.cs
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\SkladisteModel.Designer.cs
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\stavke_eksternogDokumenta.cs
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\stavke_internogDokumenta.cs
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\Uloga.cs
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\vrsta_eksternog_dokumenta.cs
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\vrsta_internog_dokumenta.cs
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\Zaposlenik.cs
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\SkladisteModel.Context.tt
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\SkladisteModel.edmx.diagram
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\SkladisteModel.tt
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\Skladista.exe
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\Skladista.pdb
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.UpravljanjeArtiklima.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.Upravljanje_narudzbenicom.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.azurirajNarudzbenicu.resources
+C:\Users\user\Desktop\Skladista_30.6_v3\Skladista\obj\Debug\Skladista.azurirajIzdatnicu.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.exe
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.pdb
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\Artikl.cs
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\eksterniDokument.cs
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\interniDokument.cs
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\Pododjel.cs
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\poslovniPartner.cs
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\Skladiste.cs
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.Context.cs
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.cs
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.Designer.cs
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\stavke_eksternogDokumenta.cs
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\stavke_internogDokumenta.cs
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\Uloga.cs
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\vrsta_eksternog_dokumenta.cs
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\vrsta_internog_dokumenta.cs
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\Zaposlenik.cs
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.Context.tt
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.edmx.diagram
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.tt
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\Skladista.exe
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\Skladista.pdb
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Skladista_1.7\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.azurirajIzdatnicu.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.azurirajNarudzbenicu.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.UpravljanjeArtiklima.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.Upravljanje_narudzbenicom.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\user\Desktop\Skladista_1.7\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\Artikl.cs
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\eksterniDokument.cs
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\interniDokument.cs
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\Pododjel.cs
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\poslovniPartner.cs
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\Skladiste.cs
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.Context.cs
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.cs
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.Designer.cs
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\stavke_eksternogDokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\stavke_internogDokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\Uloga.cs
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\vrsta_eksternog_dokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\vrsta_internog_dokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\Zaposlenik.cs
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.Context.tt
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.edmx.diagram
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.tt
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.azurirajIzdatnicu.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.azurirajNarudzbenicu.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.UpravljanjeArtiklima.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.Upravljanje_narudzbenicom.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\RdlCompile.cache
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\obj\Debug\RdlCompile.compiled
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\PISkladiste2DataSet.Designer.cs
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\PISkladiste2DataSet.xsc
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\PISkladiste2DataSet.xsd
+C:\Users\Nikola\Desktop\Skladista_1.7\Skladista_1.7\Skladista\bin\Debug\PISkladiste2DataSet.xss
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\Artikl.cs
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\eksterniDokument.cs
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\interniDokument.cs
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\PISkladiste2DataSet.Designer.cs
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\Pododjel.cs
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\poslovniPartner.cs
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\Skladiste.cs
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.Context.cs
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.cs
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.Designer.cs
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\stavke_eksternogDokumenta.cs
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\stavke_internogDokumenta.cs
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\Uloga.cs
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\vrsta_eksternog_dokumenta.cs
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\vrsta_internog_dokumenta.cs
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\Zaposlenik.cs
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\PISkladiste2DataSet.xsc
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\PISkladiste2DataSet.xsd
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\PISkladiste2DataSet.xss
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.Context.tt
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.edmx.diagram
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\SkladisteModel.tt
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.azurirajIzdatnicu.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.azurirajNarudzbenicu.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.UpravljanjeArtiklima.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.Upravljanje_narudzbenicom.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\RdlCompile.cache
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\RdlCompile.compiled
+C:\Users\Natalija\Desktop\pi\Skladista_1.7\Skladista\obj\Debug\Skladista.IzvještajZaEksterniDokument.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\Artikl.cs
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\eksterniDokument.cs
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\interniDokument.cs
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.Designer.cs
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\Pododjel.cs
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\poslovniPartner.cs
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\Skladiste.cs
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Context.cs
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.cs
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Designer.cs
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\stavke_eksternogDokumenta.cs
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\stavke_internogDokumenta.cs
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\Uloga.cs
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\vrsta_eksternog_dokumenta.cs
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\vrsta_internog_dokumenta.cs
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\Zaposlenik.cs
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xsc
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xsd
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xss
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Context.tt
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.edmx.diagram
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.tt
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajIzdatnicu.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajNarudzbenicu.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.IzvještajZaEksterniDokument.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.UpravljanjeArtiklima.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_narudzbenicom.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\RdlCompile.cache
+C:\Users\Natalija\Desktop\pi\Skladista_2.7\Skladista\obj\Debug\RdlCompile.compiled
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\Artikl.cs
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\eksterniDokument.cs
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\interniDokument.cs
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\Pododjel.cs
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\poslovniPartner.cs
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\Skladiste.cs
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Context.cs
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.cs
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Designer.cs
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\stavke_eksternogDokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\stavke_internogDokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\Uloga.cs
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\vrsta_eksternog_dokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\vrsta_internog_dokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\Zaposlenik.cs
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Context.tt
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.edmx.diagram
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.tt
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajIzdatnicu.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajNarudzbenicu.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.UpravljanjeArtiklima.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_narudzbenicom.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.Designer.cs
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xsc
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xsd
+C:\Users\Nikola\Desktop\Skladista_3.7\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xss
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\Artikl.cs
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\eksterniDokument.cs
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\interniDokument.cs
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.Designer.cs
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\Pododjel.cs
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\poslovniPartner.cs
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\Skladiste.cs
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Context.cs
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.cs
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Designer.cs
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\stavke_eksternogDokumenta.cs
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\stavke_internogDokumenta.cs
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\Uloga.cs
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\vrsta_eksternog_dokumenta.cs
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\vrsta_internog_dokumenta.cs
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\Zaposlenik.cs
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xsc
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xsd
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xss
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Context.tt
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.edmx.diagram
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.tt
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajIzdatnicu.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajNarudzbenicu.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.interniDokumentIzvjestaj.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.UpravljanjeArtiklima.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_narudzbenicom.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\RdlCompile.cache
+C:\Users\Natalija\Desktop\Nova mapa\Skladista_2.7\Skladista\obj\Debug\RdlCompile.compiled
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.exe
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajIzdatnicu.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajNarudzbenicu.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.UpravljanjeArtiklima.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_narudzbenicom.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Artikl.cs
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\eksterniDokument.cs
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\interniDokument.cs
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.Designer.cs
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Pododjel.cs
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\poslovniPartner.cs
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Skladiste.cs
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Context.cs
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.cs
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Designer.cs
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\stavke_eksternogDokumenta.cs
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\stavke_internogDokumenta.cs
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Uloga.cs
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\vrsta_eksternog_dokumenta.cs
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\vrsta_internog_dokumenta.cs
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Zaposlenik.cs
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xsc
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xsd
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xss
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Context.tt
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.edmx.diagram
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.tt
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Skladista.exe
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.IzvjestajInterni.resources
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\RdlCompile.cache
+C:\Users\Nikola-m\Downloads\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\RdlCompile.compiled
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Artikl.cs
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\eksterniDokument.cs
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\interniDokument.cs
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.Designer.cs
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Pododjel.cs
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\poslovniPartner.cs
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Skladiste.cs
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Context.cs
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.cs
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Designer.cs
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\stavke_eksternogDokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\stavke_internogDokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Uloga.cs
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\vrsta_eksternog_dokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\vrsta_internog_dokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Zaposlenik.cs
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xsc
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xsd
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xss
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Context.tt
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.edmx.diagram
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.tt
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajIzdatnicu.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajNarudzbenicu.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.IzvjestajInterniPrikaz.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.UpravljanjeArtiklima.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_narudzbenicom.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\RdlCompile.cache
+C:\Users\Nikola\Desktop\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\RdlCompile.compiled
+C:\Users\Nikola-m\Desktop\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Nikola-m\Desktop\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.exe
+C:\Users\Nikola-m\Desktop\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajIzdatnicu.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajNarudzbenicu.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.IzvjestajInterniPrikaz.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.UpravljanjeArtiklima.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_narudzbenicom.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\RdlCompile.cache
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\RdlCompile.compiled
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Artikl.cs
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\eksterniDokument.cs
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\interniDokument.cs
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.Designer.cs
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Pododjel.cs
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\poslovniPartner.cs
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Skladiste.cs
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Context.cs
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.cs
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Designer.cs
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\stavke_eksternogDokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\stavke_internogDokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Uloga.cs
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\vrsta_eksternog_dokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\vrsta_internog_dokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Zaposlenik.cs
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xsc
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xsd
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\PISkladiste2DataSet.xss
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.Context.tt
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.edmx.diagram
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\SkladisteModel.tt
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.IzvjestajEksterniPrikaz.resources
+C:\Users\Nikola\Desktop\Skladista_4.7_a\Skladista_3.7.b1111\Skladista_3.7.b1\Skladista_2.7\Skladista\obj\Debug\Skladista.ABCKlasifikacija.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\Artikl.cs
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\eksterniDokument.cs
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\interniDokument.cs
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\PISkladiste2DataSet.Designer.cs
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\Pododjel.cs
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\poslovniPartner.cs
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\Skladiste.cs
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.Context.cs
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.cs
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.Designer.cs
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\stavke_eksternogDokumenta.cs
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\stavke_internogDokumenta.cs
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\Uloga.cs
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\vrsta_eksternog_dokumenta.cs
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\vrsta_internog_dokumenta.cs
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\Zaposlenik.cs
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\PISkladiste2DataSet.xsc
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\PISkladiste2DataSet.xsd
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\PISkladiste2DataSet.xss
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.Context.tt
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.edmx.diagram
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.tt
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.ABCKlasifikacija.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.azurirajIzdatnicu.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.azurirajNarudzbenicu.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.Form1.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.IzvjestajEksterniPrikaz.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.IzvjestajInterniPrikaz.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.UpravljanjeArtiklima.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.Upravljanje_narudzbenicom.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\RdlCompile.cache
+C:\Users\Natalija\Desktop\pi\Skladista_5.7\Skladista\obj\Debug\RdlCompile.compiled
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\Artikl.cs
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\eksterniDokument.cs
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\interniDokument.cs
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\PISkladiste2DataSet.Designer.cs
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\Pododjel.cs
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\poslovniPartner.cs
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\Skladiste.cs
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.Context.cs
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.cs
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.Designer.cs
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\stavke_eksternogDokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\stavke_internogDokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\Uloga.cs
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\vrsta_eksternog_dokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\vrsta_internog_dokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\Zaposlenik.cs
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\PISkladiste2DataSet.xsc
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\PISkladiste2DataSet.xsd
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\PISkladiste2DataSet.xss
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.Context.tt
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.edmx.diagram
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.tt
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.ABCKlasifikacija.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.azurirajIzdatnicu.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.azurirajNarudzbenicu.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.IzvjestajEksterniPrikaz.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.IzvjestajInterniPrikaz.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.UpravljanjeArtiklima.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Upravljanje_narudzbenicom.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Uvid_u_stanje_na_skladistu.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\RdlCompile.cache
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\RdlCompile.compiled
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.UpravljanjeKorisnicima.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\obj\Debug\Skladista.KontrolaSkladiste.resources
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\GoogleChartSharp.dll
+C:\Users\Nikola\Desktop\Skladista_6.7\Skladista_5.7\Skladista\bin\Debug\GoogleChartSharp.xml
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\Artikl.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\eksterniDokument.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\interniDokument.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\PISkladiste2DataSet.Designer.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\Pododjel.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\poslovniPartner.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\Skladiste.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.Context.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.Designer.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\stavke_eksternogDokumenta.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\stavke_internogDokumenta.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\Uloga.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\vrsta_eksternog_dokumenta.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\vrsta_internog_dokumenta.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\Zaposlenik.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\PISkladiste2DataSet.xsc
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\PISkladiste2DataSet.xsd
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\PISkladiste2DataSet.xss
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.Context.tt
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.edmx.diagram
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\SkladisteModel.tt
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\GoogleChartSharp.dll
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\bin\Debug\GoogleChartSharp.xml
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.ABCKlasifikacija.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.azurirajIzdatnicu.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.azurirajNarudzbenicu.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.IzvjestajEksterniPrikaz.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.IzvjestajInterniPrikaz.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.KontrolaSkladiste.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.UpravljanjeArtiklima.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.UpravljanjeKorisnicima.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Upravljanje_narudzbenicom.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\RdlCompile.cache
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\RdlCompile.compiled
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_5.7\Skladista\obj\Debug\Skladista.GrafičkiPrikaz.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\Artikl.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\eksterniDokument.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\interniDokument.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\PISkladiste2DataSet.Designer.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\Pododjel.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\poslovniPartner.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\Skladiste.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\SkladisteModel.Context.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\SkladisteModel.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\SkladisteModel.Designer.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\stavke_eksternogDokumenta.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\stavke_internogDokumenta.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\Uloga.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\vrsta_eksternog_dokumenta.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\vrsta_internog_dokumenta.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\Zaposlenik.cs
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\PISkladiste2DataSet.xsc
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\PISkladiste2DataSet.xsd
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\PISkladiste2DataSet.xss
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\SkladisteModel.Context.tt
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\SkladisteModel.edmx.diagram
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\SkladisteModel.tt
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\Skladista.exe
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\GoogleChartSharp.dll
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\bin\Debug\GoogleChartSharp.xml
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.ABCKlasifikacija.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.azurirajIzdatnicu.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.azurirajNarudzbenicu.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.GrafičkiPrikaz.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.IzvjestajEksterniPrikaz.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.IzvjestajInterniPrikaz.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.KontrolaSkladiste.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.UpravljanjeArtiklima.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.UpravljanjeKorisnicima.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.Upravljanje_narudzbenicom.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\RdlCompile.cache
+C:\Users\Natalija\Desktop\pi[1]\skladišta od 9.7\Skladista_10.7\Skladista\obj\Debug\RdlCompile.compiled
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\Artikl.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\eksterniDokument.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\interniDokument.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\PISkladiste2DataSet.Designer.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\Pododjel.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\poslovniPartner.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\Skladiste.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\SkladisteModel.Context.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\SkladisteModel.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\SkladisteModel.Designer.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\stavke_eksternogDokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\stavke_internogDokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\Uloga.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\vrsta_eksternog_dokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\vrsta_internog_dokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\Zaposlenik.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\PISkladiste2DataSet.xsc
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\PISkladiste2DataSet.xsd
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\PISkladiste2DataSet.xss
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\SkladisteModel.Context.tt
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\SkladisteModel.edmx.diagram
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\SkladisteModel.tt
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\GoogleChartSharp.dll
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\bin\Debug\GoogleChartSharp.xml
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.ABCKlasifikacija.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.azurirajIzdatnicu.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.azurirajNarudzbenicu.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.GrafičkiPrikaz.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.IzvjestajEksterniPrikaz.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.IzvjestajInterniPrikaz.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.KontrolaSkladiste.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.UpravljanjeArtiklima.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.UpravljanjeKorisnicima.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.Upravljanje_narudzbenicom.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\RdlCompile.cache
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7\Skladista\obj\Debug\RdlCompile.compiled
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\Skladista.exe.config
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.ABCKlasifikacija.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.Artikli.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.azurirajIzdatnicu.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.azurirajNarudzbenicu.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.azurirajOtpremnicu.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.azurirajSkladisnicu.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.dodajStavku.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.DodajStavku_eksterni.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.Glavna.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.GrafičkiPrikaz.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.Izdatnica.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.IzvjestajEksterniPrikaz.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.IzvjestajInterniPrikaz.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.KontrolaSkladiste.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.Korisnici.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.Narudžbenica.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.Otpremnica.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.Prijava.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.Skladišnica.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.UpravljanjeArtiklima.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.UpravljanjeKorisnicima.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.Upravljanje_izdatnicom.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.Upravljanje_narudzbenicom.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.Upravljanje_otpremnicom.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.Upravljanje_skladišnicom.resources
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\Skladista.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\RdlCompile.cache
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\obj\Debug\RdlCompile.compiled
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\PISkladiste2.mdf
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\PISkladiste2_log.ldf
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\Artikl.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\eksterniDokument.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\interniDokument.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\PISkladiste2DataSet.Designer.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\Pododjel.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\poslovniPartner.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\Skladiste.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\SkladisteModel.Context.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\SkladisteModel.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\SkladisteModel.Designer.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\stavke_eksternogDokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\stavke_internogDokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\Uloga.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\vrsta_eksternog_dokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\vrsta_internog_dokumenta.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\Zaposlenik.cs
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\PISkladiste2DataSet.xsc
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\PISkladiste2DataSet.xsd
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\PISkladiste2DataSet.xss
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\SkladisteModel.Context.tt
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\SkladisteModel.edmx.diagram
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\SkladisteModel.tt
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\Skladista.exe
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\Skladista.pdb
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\EntityFramework.dll
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\GoogleChartSharp.dll
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\EntityFramework.xml
+C:\Users\Nikola\Desktop\Skladista_10.7.a\Skladista_10.7 - Copy\Skladista\bin\Debug\GoogleChartSharp.xml

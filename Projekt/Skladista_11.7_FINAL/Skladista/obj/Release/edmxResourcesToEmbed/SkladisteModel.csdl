@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PISkladiste2Model" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="PISkladiste2Entities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Artikl" EntityType="PISkladiste2Model.Artikl" />
+    <EntitySet Name="eksterniDokument" EntityType="PISkladiste2Model.eksterniDokument" />
+    <EntitySet Name="interniDokument" EntityType="PISkladiste2Model.interniDokument" />
+    <EntitySet Name="Pododjel" EntityType="PISkladiste2Model.Pododjel" />
+    <EntitySet Name="poslovniPartner" EntityType="PISkladiste2Model.poslovniPartner" />
+    <EntitySet Name="Skladiste" EntityType="PISkladiste2Model.Skladiste" />
+    <EntitySet Name="stavke_eksternogDokumenta" EntityType="PISkladiste2Model.stavke_eksternogDokumenta" />
+    <EntitySet Name="stavke_internogDokumenta" EntityType="PISkladiste2Model.stavke_internogDokumenta" />
+    <EntitySet Name="Uloga" EntityType="PISkladiste2Model.Uloga" />
+    <EntitySet Name="vrsta_eksternog_dokumenta" EntityType="PISkladiste2Model.vrsta_eksternog_dokumenta" />
+    <EntitySet Name="vrsta_internog_dokumenta" EntityType="PISkladiste2Model.vrsta_internog_dokumenta" />
+    <EntitySet Name="Zaposlenik" EntityType="PISkladiste2Model.Zaposlenik" />
+    <AssociationSet Name="FK_Artikl_Pododjel" Association="PISkladiste2Model.FK_Artikl_Pododjel">
+      <End Role="Pododjel" EntitySet="Pododjel" />
+      <End Role="Artikl" EntitySet="Artikl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_stavke_eksternogDokumenta_Artikl" Association="PISkladiste2Model.FK_stavke_eksternogDokumenta_Artikl">
+      <End Role="Artikl" EntitySet="Artikl" />
+      <End Role="stavke_eksternogDokumenta" EntitySet="stavke_eksternogDokumenta" />
+    </AssociationSet>
+    <AssociationSet Name="FK_stavke_internogDokumenta_Artikl" Association="PISkladiste2Model.FK_stavke_internogDokumenta_Artikl">
+      <End Role="Artikl" EntitySet="Artikl" />
+      <End Role="stavke_internogDokumenta" EntitySet="stavke_internogDokumenta" />
+    </AssociationSet>
+    <AssociationSet Name="FK_eksterniDokument_poslovniPartner" Association="PISkladiste2Model.FK_eksterniDokument_poslovniPartner">
+      <End Role="poslovniPartner" EntitySet="poslovniPartner" />
+      <End Role="eksterniDokument" EntitySet="eksterniDokument" />
+    </AssociationSet>
+    <AssociationSet Name="FK_eksterniDokument_vrsta_eksternog_dokumenta" Association="PISkladiste2Model.FK_eksterniDokument_vrsta_eksternog_dokumenta">
+      <End Role="vrsta_eksternog_dokumenta" EntitySet="vrsta_eksternog_dokumenta" />
+      <End Role="eksterniDokument" EntitySet="eksterniDokument" />
+    </AssociationSet>
+    <AssociationSet Name="FK_eksterniDokument_Zaposlenik" Association="PISkladiste2Model.FK_eksterniDokument_Zaposlenik">
+      <End Role="Zaposlenik" EntitySet="Zaposlenik" />
+      <End Role="eksterniDokument" EntitySet="eksterniDokument" />
+    </AssociationSet>
+    <AssociationSet Name="FK_stavke_eksternogDokumenta_stavke_eksternogDokumenta" Association="PISkladiste2Model.FK_stavke_eksternogDokumenta_stavke_eksternogDokumenta">
+      <End Role="eksterniDokument" EntitySet="eksterniDokument" />
+      <End Role="stavke_eksternogDokumenta" EntitySet="stavke_eksternogDokumenta" />
+    </AssociationSet>
+    <AssociationSet Name="FK_interniDokument_interniDokument" Association="PISkladiste2Model.FK_interniDokument_interniDokument">
+      <End Role="Zaposlenik" EntitySet="Zaposlenik" />
+      <End Role="interniDokument" EntitySet="interniDokument" />
+    </AssociationSet>
+    <AssociationSet Name="FK_interniDokument_vrsta_internog_dokumenta" Association="PISkladiste2Model.FK_interniDokument_vrsta_internog_dokumenta">
+      <End Role="vrsta_internog_dokumenta" EntitySet="vrsta_internog_dokumenta" />
+      <End Role="interniDokument" EntitySet="interniDokument" />
+    </AssociationSet>
+    <AssociationSet Name="FK_stavke_internogDokumenta_interniDokument" Association="PISkladiste2Model.FK_stavke_internogDokumenta_interniDokument">
+      <End Role="interniDokument" EntitySet="interniDokument" />
+      <End Role="stavke_internogDokumenta" EntitySet="stavke_internogDokumenta" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pododjel_Skladiste" Association="PISkladiste2Model.FK_Pododjel_Skladiste">
+      <End Role="Skladiste" EntitySet="Skladiste" />
+      <End Role="Pododjel" EntitySet="Pododjel" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Zaposlenik_Uloga" Association="PISkladiste2Model.FK_Zaposlenik_Uloga">
+      <End Role="Uloga" EntitySet="Uloga" />
+      <End Role="Zaposlenik" EntitySet="Zaposlenik" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Artikl">
+    <Key>
+      <PropertyRef Name="sifra" />
+    </Key>
+    <Property Name="sifra" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="nabavna_cijena" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="naziv" Type="String" MaxLength="40" Unicode="false" FixedLength="false" />
+    <Property Name="kolicina" Type="Int32" />
+    <Property Name="minimalna_kolicina" Type="Int32" />
+    <Property Name="pododjel" Type="Int32" />
+    <NavigationProperty Name="Pododjel1" Relationship="PISkladiste2Model.FK_Artikl_Pododjel" FromRole="Artikl" ToRole="Pododjel" />
+    <NavigationProperty Name="stavke_eksternogDokumenta" Relationship="PISkladiste2Model.FK_stavke_eksternogDokumenta_Artikl" FromRole="Artikl" ToRole="stavke_eksternogDokumenta" />
+    <NavigationProperty Name="stavke_internogDokumenta" Relationship="PISkladiste2Model.FK_stavke_internogDokumenta_Artikl" FromRole="Artikl" ToRole="stavke_internogDokumenta" />
+  </EntityType>
+  <EntityType Name="eksterniDokument">
+    <Key>
+      <PropertyRef Name="id_dokumenta" />
+    </Key>
+    <Property Name="id_dokumenta" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="sifra" Type="String" MaxLength="30" Unicode="false" FixedLength="false" />
+    <Property Name="datum" Type="DateTime" Precision="0" />
+    <Property Name="vrsta" Type="Int32" />
+    <Property Name="poslovni_partner" Type="Int32" />
+    <Property Name="izradio" Type="Int32" />
+    <NavigationProperty Name="poslovniPartner" Relationship="PISkladiste2Model.FK_eksterniDokument_poslovniPartner" FromRole="eksterniDokument" ToRole="poslovniPartner" />
+    <NavigationProperty Name="vrsta_eksternog_dokumenta" Relationship="PISkladiste2Model.FK_eksterniDokument_vrsta_eksternog_dokumenta" FromRole="eksterniDokument" ToRole="vrsta_eksternog_dokumenta" />
+    <NavigationProperty Name="Zaposlenik" Relationship="PISkladiste2Model.FK_eksterniDokument_Zaposlenik" FromRole="eksterniDokument" ToRole="Zaposlenik" />
+    <NavigationProperty Name="stavke_eksternogDokumenta" Relationship="PISkladiste2Model.FK_stavke_eksternogDokumenta_stavke_eksternogDokumenta" FromRole="eksterniDokument" ToRole="stavke_eksternogDokumenta" />
+  </EntityType>
+  <EntityType Name="interniDokument">
+    <Key>
+      <PropertyRef Name="id_dokumenta" />
+    </Key>
+    <Property Name="id_dokumenta" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="sifra" Type="String" MaxLength="32" Unicode="false" FixedLength="false" />
+    <Property Name="datum" Type="DateTime" Precision="0" />
+    <Property Name="vrsta" Type="Int32" />
+    <Property Name="izradio" Type="Int32" />
+    <NavigationProperty Name="Zaposlenik" Relationship="PISkladiste2Model.FK_interniDokument_interniDokument" FromRole="interniDokument" ToRole="Zaposlenik" />
+    <NavigationProperty Name="vrsta_internog_dokumenta" Relationship="PISkladiste2Model.FK_interniDokument_vrsta_internog_dokumenta" FromRole="interniDokument" ToRole="vrsta_internog_dokumenta" />
+    <NavigationProperty Name="stavke_internogDokumenta" Relationship="PISkladiste2Model.FK_stavke_internogDokumenta_interniDokument" FromRole="interniDokument" ToRole="stavke_internogDokumenta" />
+  </EntityType>
+  <EntityType Name="Pododjel">
+    <Key>
+      <PropertyRef Name="sifra" />
+    </Key>
+    <Property Name="sifra" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="naziv" Type="String" MaxLength="40" Unicode="false" FixedLength="false" />
+    <Property Name="kapacitet" Type="Int32" />
+    <Property Name="skladiste" Type="Int32" />
+    <NavigationProperty Name="Artikl" Relationship="PISkladiste2Model.FK_Artikl_Pododjel" FromRole="Pododjel" ToRole="Artikl" />
+    <NavigationProperty Name="Skladiste1" Relationship="PISkladiste2Model.FK_Pododjel_Skladiste" FromRole="Pododjel" ToRole="Skladiste" />
+  </EntityType>
+  <EntityType Name="poslovniPartner">
+    <Key>
+      <PropertyRef Name="sifra" />
+    </Key>
+    <Property Name="sifra" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="naziv" Type="String" MaxLength="45" Unicode="false" FixedLength="false" />
+    <Property Name="adresa" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="email" Type="String" MaxLength="30" Unicode="false" FixedLength="false" />
+    <Property Name="telefon" Type="String" MaxLength="20" Unicode="false" FixedLength="false" />
+    <Property Name="faks" Type="String" MaxLength="20" Unicode="false" FixedLength="false" />
+    <Property Name="ziro_racun" Type="String" MaxLength="30" Unicode="false" FixedLength="false" />
+    <Property Name="oib" Type="String" MaxLength="11" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="eksterniDokument" Relationship="PISkladiste2Model.FK_eksterniDokument_poslovniPartner" FromRole="poslovniPartner" ToRole="eksterniDokument" />
+  </EntityType>
+  <EntityType Name="Skladiste">
+    <Key>
+      <PropertyRef Name="sifra" />
+    </Key>
+    <Property Name="sifra" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="naziv" Type="String" MaxLength="40" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Pododjel" Relationship="PISkladiste2Model.FK_Pododjel_Skladiste" FromRole="Skladiste" ToRole="Pododjel" />
+  </EntityType>
+  <EntityType Name="stavke_eksternogDokumenta">
+    <Key>
+      <PropertyRef Name="id_dokumenta" />
+      <PropertyRef Name="id_artikla" />
+    </Key>
+    <Property Name="id_dokumenta" Type="Int32" Nullable="false" />
+    <Property Name="id_artikla" Type="Int32" Nullable="false" />
+    <Property Name="kolicina" Type="Int32" />
+    <NavigationProperty Name="Artikl" Relationship="PISkladiste2Model.FK_stavke_eksternogDokumenta_Artikl" FromRole="stavke_eksternogDokumenta" ToRole="Artikl" />
+    <NavigationProperty Name="eksterniDokument" Relationship="PISkladiste2Model.FK_stavke_eksternogDokumenta_stavke_eksternogDokumenta" FromRole="stavke_eksternogDokumenta" ToRole="eksterniDokument" />
+  </EntityType>
+  <EntityType Name="stavke_internogDokumenta">
+    <Key>
+      <PropertyRef Name="id_dokumenta" />
+      <PropertyRef Name="id_artikla" />
+    </Key>
+    <Property Name="id_dokumenta" Type="Int32" Nullable="false" />
+    <Property Name="id_artikla" Type="Int32" Nullable="false" />
+    <Property Name="kolicina" Type="Int32" />
+    <NavigationProperty Name="Artikl" Relationship="PISkladiste2Model.FK_stavke_internogDokumenta_Artikl" FromRole="stavke_internogDokumenta" ToRole="Artikl" />
+    <NavigationProperty Name="interniDokument" Relationship="PISkladiste2Model.FK_stavke_internogDokumenta_interniDokument" FromRole="stavke_internogDokumenta" ToRole="interniDokument" />
+  </EntityType>
+  <EntityType Name="Uloga">
+    <Key>
+      <PropertyRef Name="sifra" />
+    </Key>
+    <Property Name="sifra" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="naziv" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Zaposlenik" Relationship="PISkladiste2Model.FK_Zaposlenik_Uloga" FromRole="Uloga" ToRole="Zaposlenik" />
+  </EntityType>
+  <EntityType Name="vrsta_eksternog_dokumenta">
+    <Key>
+      <PropertyRef Name="sifra" />
+    </Key>
+    <Property Name="sifra" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="naziv" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="eksterniDokument" Relationship="PISkladiste2Model.FK_eksterniDokument_vrsta_eksternog_dokumenta" FromRole="vrsta_eksternog_dokumenta" ToRole="eksterniDokument" />
+  </EntityType>
+  <EntityType Name="vrsta_internog_dokumenta">
+    <Key>
+      <PropertyRef Name="sifra" />
+    </Key>
+    <Property Name="sifra" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="naziv" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="interniDokument" Relationship="PISkladiste2Model.FK_interniDokument_vrsta_internog_dokumenta" FromRole="vrsta_internog_dokumenta" ToRole="interniDokument" />
+  </EntityType>
+  <EntityType Name="Zaposlenik">
+    <Key>
+      <PropertyRef Name="sifra" />
+    </Key>
+    <Property Name="sifra" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="ime" Type="String" MaxLength="20" Unicode="false" FixedLength="false" />
+    <Property Name="prezime" Type="String" MaxLength="30" Unicode="false" FixedLength="false" />
+    <Property Name="korisnicko_ime" Type="String" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="lozinka" Type="String" MaxLength="32" Unicode="false" FixedLength="false" />
+    <Property Name="uloga" Type="Int32" />
+    <NavigationProperty Name="eksterniDokument" Relationship="PISkladiste2Model.FK_eksterniDokument_Zaposlenik" FromRole="Zaposlenik" ToRole="eksterniDokument" />
+    <NavigationProperty Name="interniDokument" Relationship="PISkladiste2Model.FK_interniDokument_interniDokument" FromRole="Zaposlenik" ToRole="interniDokument" />
+    <NavigationProperty Name="Uloga1" Relationship="PISkladiste2Model.FK_Zaposlenik_Uloga" FromRole="Zaposlenik" ToRole="Uloga" />
+  </EntityType>
+  <Association Name="FK_Artikl_Pododjel">
+    <End Role="Pododjel" Type="PISkladiste2Model.Pododjel" Multiplicity="0..1" />
+    <End Role="Artikl" Type="PISkladiste2Model.Artikl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pododjel">
+        <PropertyRef Name="sifra" />
+      </Principal>
+      <Dependent Role="Artikl">
+        <PropertyRef Name="pododjel" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_stavke_eksternogDokumenta_Artikl">
+    <End Role="Artikl" Type="PISkladiste2Model.Artikl" Multiplicity="1" />
+    <End Role="stavke_eksternogDokumenta" Type="PISkladiste2Model.stavke_eksternogDokumenta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Artikl">
+        <PropertyRef Name="sifra" />
+      </Principal>
+      <Dependent Role="stavke_eksternogDokumenta">
+        <PropertyRef Name="id_artikla" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_stavke_internogDokumenta_Artikl">
+    <End Role="Artikl" Type="PISkladiste2Model.Artikl" Multiplicity="1" />
+    <End Role="stavke_internogDokumenta" Type="PISkladiste2Model.stavke_internogDokumenta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Artikl">
+        <PropertyRef Name="sifra" />
+      </Principal>
+      <Dependent Role="stavke_internogDokumenta">
+        <PropertyRef Name="id_dokumenta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_eksterniDokument_poslovniPartner">
+    <End Role="poslovniPartner" Type="PISkladiste2Model.poslovniPartner" Multiplicity="0..1" />
+    <End Role="eksterniDokument" Type="PISkladiste2Model.eksterniDokument" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="poslovniPartner">
+        <PropertyRef Name="sifra" />
+      </Principal>
+      <Dependent Role="eksterniDokument">
+        <PropertyRef Name="poslovni_partner" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_eksterniDokument_vrsta_eksternog_dokumenta">
+    <End Role="vrsta_eksternog_dokumenta" Type="PISkladiste2Model.vrsta_eksternog_dokumenta" Multiplicity="0..1" />
+    <End Role="eksterniDokument" Type="PISkladiste2Model.eksterniDokument" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="vrsta_eksternog_dokumenta">
+        <PropertyRef Name="sifra" />
+      </Principal>
+      <Dependent Role="eksterniDokument">
+        <PropertyRef Name="vrsta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_eksterniDokument_Zaposlenik">
+    <End Role="Zaposlenik" Type="PISkladiste2Model.Zaposlenik" Multiplicity="0..1" />
+    <End Role="eksterniDokument" Type="PISkladiste2Model.eksterniDokument" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Zaposlenik">
+        <PropertyRef Name="sifra" />
+      </Principal>
+      <Dependent Role="eksterniDokument">
+        <PropertyRef Name="izradio" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_stavke_eksternogDokumenta_stavke_eksternogDokumenta">
+    <End Role="eksterniDokument" Type="PISkladiste2Model.eksterniDokument" Multiplicity="1" />
+    <End Role="stavke_eksternogDokumenta" Type="PISkladiste2Model.stavke_eksternogDokumenta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="eksterniDokument">
+        <PropertyRef Name="id_dokumenta" />
+      </Principal>
+      <Dependent Role="stavke_eksternogDokumenta">
+        <PropertyRef Name="id_dokumenta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_interniDokument_interniDokument">
+    <End Role="Zaposlenik" Type="PISkladiste2Model.Zaposlenik" Multiplicity="0..1" />
+    <End Role="interniDokument" Type="PISkladiste2Model.interniDokument" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Zaposlenik">
+        <PropertyRef Name="sifra" />
+      </Principal>
+      <Dependent Role="interniDokument">
+        <PropertyRef Name="izradio" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_interniDokument_vrsta_internog_dokumenta">
+    <End Role="vrsta_internog_dokumenta" Type="PISkladiste2Model.vrsta_internog_dokumenta" Multiplicity="0..1" />
+    <End Role="interniDokument" Type="PISkladiste2Model.interniDokument" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="vrsta_internog_dokumenta">
+        <PropertyRef Name="sifra" />
+      </Principal>
+      <Dependent Role="interniDokument">
+        <PropertyRef Name="vrsta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_stavke_internogDokumenta_interniDokument">
+    <End Role="interniDokument" Type="PISkladiste2Model.interniDokument" Multiplicity="1" />
+    <End Role="stavke_internogDokumenta" Type="PISkladiste2Model.stavke_internogDokumenta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="interniDokument">
+        <PropertyRef Name="id_dokumenta" />
+      </Principal>
+      <Dependent Role="stavke_internogDokumenta">
+        <PropertyRef Name="id_dokumenta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pododjel_Skladiste">
+    <End Role="Skladiste" Type="PISkladiste2Model.Skladiste" Multiplicity="0..1" />
+    <End Role="Pododjel" Type="PISkladiste2Model.Pododjel" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Skladiste">
+        <PropertyRef Name="sifra" />
+      </Principal>
+      <Dependent Role="Pododjel">
+        <PropertyRef Name="skladiste" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Zaposlenik_Uloga">
+    <End Role="Uloga" Type="PISkladiste2Model.Uloga" Multiplicity="0..1" />
+    <End Role="Zaposlenik" Type="PISkladiste2Model.Zaposlenik" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Uloga">
+        <PropertyRef Name="sifra" />
+      </Principal>
+      <Dependent Role="Zaposlenik">
+        <PropertyRef Name="uloga" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PISkladisteModelStoreContainer" CdmEntityContainer="PISkladisteEntities1">
+    <EntitySetMapping Name="artikli">
+      <EntityTypeMapping TypeName="PISkladisteModel.artikli">
+        <MappingFragment StoreEntitySet="artikli">
+          <ScalarProperty Name="sifra" ColumnName="sifra" />
+          <ScalarProperty Name="nabavna_cijena" ColumnName="nabavna_cijena" />
+          <ScalarProperty Name="naziv" ColumnName="naziv" />
+          <ScalarProperty Name="kolicina" ColumnName="kolicina" />
+          <ScalarProperty Name="minimalna_kolicina" ColumnName="minimalna_kolicina" />
+          <ScalarProperty Name="pododjel" ColumnName="pododjel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="eksterni_dokument">
+      <EntityTypeMapping TypeName="PISkladisteModel.eksterni_dokument">
+        <MappingFragment StoreEntitySet="eksterni_dokument">
+          <ScalarProperty Name="id_eksternog_dokumenta" ColumnName="id_eksternog_dokumenta" />
+          <ScalarProperty Name="sifra" ColumnName="sifra" />
+          <ScalarProperty Name="datum" ColumnName="datum" />
+          <ScalarProperty Name="vrsta" ColumnName="vrsta" />
+          <ScalarProperty Name="poslovni_partner" ColumnName="poslovni_partner" />
+          <ScalarProperty Name="izradio" ColumnName="izradio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="interni_dokument">
+      <EntityTypeMapping TypeName="PISkladisteModel.interni_dokument">
+        <MappingFragment StoreEntitySet="interni_dokument">
+          <ScalarProperty Name="id_internog_dokumenta" ColumnName="id_internog_dokumenta" />
+          <ScalarProperty Name="sifra" ColumnName="sifra" />
+          <ScalarProperty Name="datum" ColumnName="datum" />
+          <ScalarProperty Name="vrsta" ColumnName="vrsta" />
+          <ScalarProperty Name="izradio" ColumnName="izradio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="pododjel">
+      <EntityTypeMapping TypeName="PISkladisteModel.pododjel">
+        <MappingFragment StoreEntitySet="pododjel">
+          <ScalarProperty Name="sifra" ColumnName="sifra" />
+          <ScalarProperty Name="naziv" ColumnName="naziv" />
+          <ScalarProperty Name="kapacitet" ColumnName="kapacitet" />
+          <ScalarProperty Name="skladiste" ColumnName="skladiste" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="poslovni_partner">
+      <EntityTypeMapping TypeName="PISkladisteModel.poslovni_partner">
+        <MappingFragment StoreEntitySet="poslovni_partner">
+          <ScalarProperty Name="sifra" ColumnName="sifra" />
+          <ScalarProperty Name="naziv" ColumnName="naziv" />
+          <ScalarProperty Name="adresa" ColumnName="adresa" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="telefon" ColumnName="telefon" />
+          <ScalarProperty Name="faks" ColumnName="faks" />
+          <ScalarProperty Name="ziro_racun" ColumnName="ziro_racun" />
+          <ScalarProperty Name="oib" ColumnName="oib" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="skladiste">
+      <EntityTypeMapping TypeName="PISkladisteModel.skladiste">
+        <MappingFragment StoreEntitySet="skladiste">
+          <ScalarProperty Name="sifra" ColumnName="sifra" />
+          <ScalarProperty Name="naziv" ColumnName="naziv" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="stavke_internog_dokumenta">
+      <EntityTypeMapping TypeName="PISkladisteModel.stavke_internog_dokumenta">
+        <MappingFragment StoreEntitySet="stavke_internog_dokumenta">
+          <ScalarProperty Name="id_internog_dokumenta" ColumnName="id_internog_dokumenta" />
+          <ScalarProperty Name="id_artikla" ColumnName="id_artikla" />
+          <ScalarProperty Name="kolicina" ColumnName="kolicina" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="uloga">
+      <EntityTypeMapping TypeName="PISkladisteModel.uloga">
+        <MappingFragment StoreEntitySet="uloga">
+          <ScalarProperty Name="sifra" ColumnName="sifra" />
+          <ScalarProperty Name="naziv" ColumnName="naziv" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vrsta_eksternog_dokumenta">
+      <EntityTypeMapping TypeName="PISkladisteModel.vrsta_eksternog_dokumenta">
+        <MappingFragment StoreEntitySet="vrsta_eksternog_dokumenta">
+          <ScalarProperty Name="sifra" ColumnName="sifra" />
+          <ScalarProperty Name="naziv" ColumnName="naziv" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vrsta_internog_dokumenta">
+      <EntityTypeMapping TypeName="PISkladisteModel.vrsta_internog_dokumenta">
+        <MappingFragment StoreEntitySet="vrsta_internog_dokumenta">
+          <ScalarProperty Name="sifra" ColumnName="sifra" />
+          <ScalarProperty Name="naziv" ColumnName="naziv" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="zaposlenik">
+      <EntityTypeMapping TypeName="PISkladisteModel.zaposlenik">
+        <MappingFragment StoreEntitySet="zaposlenik">
+          <ScalarProperty Name="sifra" ColumnName="sifra" />
+          <ScalarProperty Name="ime" ColumnName="ime" />
+          <ScalarProperty Name="prezime" ColumnName="prezime" />
+          <ScalarProperty Name="korisnicko_ime" ColumnName="korisnicko_ime" />
+          <ScalarProperty Name="lozinka" ColumnName="lozinka" />
+          <ScalarProperty Name="uloga" ColumnName="uloga" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="stavke_eksternog_dokumenta">
+      <EntityTypeMapping TypeName="PISkladisteModel.stavke_eksternog_dokumenta">
+        <MappingFragment StoreEntitySet="stavke_eksternog_dokumenta">
+          <ScalarProperty Name="kolicina" ColumnName="kolicina" />
+          <ScalarProperty Name="id_artikla" ColumnName="id_artikla" />
+          <ScalarProperty Name="id_dokumenta" ColumnName="id_dokumenta" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
