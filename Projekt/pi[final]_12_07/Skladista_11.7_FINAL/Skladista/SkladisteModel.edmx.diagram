@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2ff688bc80ec4e49a1b9b25a930cf22f" Name="Diagram1" ZoomLevel="54">
+        <EntityTypeShape EntityType="PISkladiste2Model.Artikl" Width="1.5" PointX="13.125" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PISkladiste2Model.eksterniDokument" Width="1.5" PointX="5.25" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PISkladiste2Model.interniDokument" Width="1.5" PointX="8.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PISkladiste2Model.Pododjel" Width="1.5" PointX="15.5" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PISkladiste2Model.poslovniPartner" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PISkladiste2Model.Skladiste" Width="1.5" PointX="14.5" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="PISkladiste2Model.stavke_eksternogDokumenta" Width="1.5" PointX="7.5" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PISkladiste2Model.stavke_internogDokumenta" Width="1.5" PointX="10.5" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PISkladiste2Model.Uloga" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PISkladiste2Model.vrsta_eksternog_dokumenta" Width="1.5" PointX="3" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PISkladiste2Model.vrsta_internog_dokumenta" Width="1.5" PointX="7.875" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PISkladiste2Model.Zaposlenik" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <AssociationConnector Association="PISkladiste2Model.FK_Artikl_Pododjel" ManuallyRouted="false" />
+        <AssociationConnector Association="PISkladiste2Model.FK_stavke_eksternogDokumenta_Artikl" ManuallyRouted="false" />
+        <AssociationConnector Association="PISkladiste2Model.FK_stavke_internogDokumenta_Artikl" ManuallyRouted="false" />
+        <AssociationConnector Association="PISkladiste2Model.FK_eksterniDokument_poslovniPartner" ManuallyRouted="false" />
+        <AssociationConnector Association="PISkladiste2Model.FK_eksterniDokument_vrsta_eksternog_dokumenta" ManuallyRouted="false" />
+        <AssociationConnector Association="PISkladiste2Model.FK_eksterniDokument_Zaposlenik" ManuallyRouted="false" />
+        <AssociationConnector Association="PISkladiste2Model.FK_stavke_eksternogDokumenta_stavke_eksternogDokumenta" ManuallyRouted="false" />
+        <AssociationConnector Association="PISkladiste2Model.FK_interniDokument_interniDokument" ManuallyRouted="false" />
+        <AssociationConnector Association="PISkladiste2Model.FK_interniDokument_vrsta_internog_dokumenta" ManuallyRouted="false" />
+        <AssociationConnector Association="PISkladiste2Model.FK_stavke_internogDokumenta_interniDokument" ManuallyRouted="false" />
+        <AssociationConnector Association="PISkladiste2Model.FK_Pododjel_Skladiste" ManuallyRouted="false" />
+        <AssociationConnector Association="PISkladiste2Model.FK_Zaposlenik_Uloga" ManuallyRouted="false" />
+        <AssociationConnector Association="PISkladiste2Model.FK_stavke_internogDokumenta_Artikl1" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
